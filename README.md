@@ -21,8 +21,8 @@ b = np.array([0,10])
 solution = np.linalg.solve(a,b)
 print(solution)
 ```
-## Output:
 
+## Output:![exp output 1](https://user-images.githubusercontent.com/118610231/207239085-b3da9d61-3f59-408d-8efd-f1fda922a22a.png)
 
 
 ## Result: 
